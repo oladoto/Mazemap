@@ -1,0 +1,7 @@
+{
+  "name": "mazemap",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "ionic-angular"
+}
